@@ -1,4 +1,9 @@
 just checking something
 
+<<<<<<< HEAD
 let see what we can commit
+=======
+
+>>>>>>> origin/master
 we are testing branchin
+we are editing new file
